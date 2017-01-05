@@ -1,0 +1,9 @@
+CASSANDRA EXECUTION  (DataStax Devcenter)
+
+1. After installed cassandra open Datastax devcenter
+1.goto file and open new connection one dialog box will come
+2. Give some connection name and connection host is 127.0.0.1 and click add button
+3.give native protocol port 9042 and choose use compression is None.
+4. Then click next and advanced settings dialogue box will come
+5. then choose the cluster requires credentials check box and give Login and password
+6. then click finish button
