@@ -1,5 +1,9 @@
 CASSANDRA EXECUTION  (DataStax Devcenter)
-
+ 
+ (install file link: http://www.cassadmin.com/2015/10/install-cassandra-on-windows-1.html)
+ 
+ 
+ 
 1. After installed cassandra open Datastax devcenter
 1.goto file and open new connection one dialog box will come
 2. Give some connection name and connection host is 127.0.0.1 and click add button
