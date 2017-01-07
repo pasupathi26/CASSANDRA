@@ -1,7 +1,8 @@
 CASSANDRA EXECUTION  (DataStax Devcenter)
  
  (install file link: http://www.cassadmin.com/2015/10/install-cassandra-on-windows-1.html)
- 
+ or
+ (http://www.askhadoop.com/cassandra-installation-on-windows/)
  
  
 1. After installed cassandra open Datastax devcenter
